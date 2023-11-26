@@ -18,10 +18,15 @@
 - Svavar Baksi
 - heimasíður
 - samstem og Hí
+- modulair electronics frá Hans - fab lab Sauðárkrókur
 
 ## áframhald
 
-Er hægt að koma rafbók.is á github?
-Fyrir kennara eða nemendur
-kennsluefni
-Spurningar og pælingar
+- Er hægt að koma rafbók.is á github?
+- Fyrir kennara eða nemendur
+- kennsluefni
+- Spurningar og pælingar
+	- er hægt að setja word skjöl inn á github Svar: já en..
+
+
+ ## það sem við náðum ekki að fara yfir
