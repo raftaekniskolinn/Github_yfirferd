@@ -2,12 +2,15 @@
 
 ## hvað er Git
 
-- git - guthub - gitlab
-- markdown
+- Git - guthub - gitlab
+- [markdown](https://commonmark.org/help/)
+	- [Markdown Cheat-Sheet](https://dev.to/godcrampy/markdown-cheat-sheet-pdf-infographic-12ko)
 - uppsetning
-- vs code innbyggt github
+	- [vs code](https://code.visualstudio.com/) innbyggt github
+	- [Git](https://git-scm.com/) og Gitbash fyrir lengra komna
+	- [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 - Repos = möppukerfi
-	- skipulag
+	- skippulag
 - leyfi
 
 ## dæmi
