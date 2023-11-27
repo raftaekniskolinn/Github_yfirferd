@@ -1,0 +1,1 @@
+svæði fyrir myndir
