@@ -52,6 +52,8 @@
 - kennsluefni
 - Spurningar og pælingar
 	- er hægt að setja word skjöl inn á github Svar: já en..
+ 	- Er hægt að nota þetta með outlook: veit það ekki
+  	- 
 
 
  ## það sem við náðum ekki að fara yfir
