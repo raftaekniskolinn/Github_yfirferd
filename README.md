@@ -12,7 +12,7 @@
 	- [Git](https://git-scm.com/) og Gitbash fyrir lengra komna
 	- [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-![Alt text](cheat_sheet.png)
+![Alt text](/myndir/cheat_sheet.png)
 
 ## dæmi
 
@@ -31,7 +31,7 @@
  - - Fab academy
 	- [Svavar Baksi](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
 
-![Alt text](1_eGdNATA_BGQcA1xUvc9Irg.png)
+![Alt text](/myndir/1_eGdNATA_BGQcA1xUvc9Irg.png)
 
 ## góðar venjur
 
@@ -60,6 +60,6 @@
 - [How to use GitHub to strengthen your resume](https://www.codecademy.com/resources/blog/how-to-use-github-to-strengthen-your-resume/)
 
 
-![Alt text](fa39a3278200436e3e6fe5d238aa753b.jpg)
+![Alt text](/myndir/fa39a3278200436e3e6fe5d238aa753b.jpg)
 
 
