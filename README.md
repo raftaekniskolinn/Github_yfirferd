@@ -9,9 +9,7 @@
 	- [vs code](https://code.visualstudio.com/) innbyggt github
 	- [Git](https://git-scm.com/) og Gitbash fyrir lengra komna
 	- [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-- Repos = möppukerfi
-	- skippulag
-- leyfi
+
 
 ## dæmi
 
@@ -25,8 +23,22 @@
 	-[PrintableAxis](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/Projects/PrintableAxis/) 
 - heimasíður
 	- [Fabacademy 2023 - Instructors Bootcamp](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/)
+	- [Bootcamp austurland](https://fab-lab-austurland.github.io/FLI-Boot-Camp-2023/projects/Jesmonite_afsteypun/)
+	- [Fla.is](https://www.fla.is/)
  - - Fab academy
 	- [Svavar Baksi](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
+
+## góðar venjur
+
+- Repos = möppukerfi
+	- [skippulag](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405)
+- Að skjalfesta og skrifa niður
+	- document before you go
+	- Document on the go (sem við erum að gera núna)
+	- Document when done ( þetta viljum ekki gera)
+	- Not document 	
+- leyfi 
+
 
 ## áframhald
 
