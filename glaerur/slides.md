@@ -1,7 +1,11 @@
+--- 
+marp: true
+theme: uncover
+class: invert
+---
+
 # Git kynning fyrir kennara í raftækniskólanum
-
-![Alt text](<2023-11-27 08_53_49-git repository – Google leit.png>)
-
+---
 ## hvað er Git
 
 - Git - guthub - gitlab
@@ -12,7 +16,11 @@
 	- [Git](https://git-scm.com/) og Gitbash fyrir lengra komna
 	- [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-![Alt text](cheat_sheet.png)
+---
+
+![Alt text](cheat_sheet.png) 
+
+---
 
 ## dæmi
 
@@ -24,15 +32,19 @@
 - modulair electronics frá Hans - fab lab Sauðárkrókur
 - [behive](https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes/-/tree/main/parts?ref_type=heads)
 	-[PrintableAxis](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/Projects/PrintableAxis/) 
+
+---
 - heimasíður
 	- [Fabacademy 2023 - Instructors Bootcamp](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/)
 	- [Bootcamp austurland](https://fab-lab-austurland.github.io/FLI-Boot-Camp-2023/projects/Jesmonite_afsteypun/)
 	- [Fla.is](https://www.fla.is/)
  - - Fab academy
 	- [Svavar Baksi](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
+---
 
 ![Alt text](1_eGdNATA_BGQcA1xUvc9Irg.png)
 
+---
 ## góðar venjur
 
 - Repos = möppukerfi
@@ -44,7 +56,7 @@
 	- Not document 	
 - leyfi 
 
-
+---
 ## áframhald
 
 - Er hægt að koma rafbók.is á github?
@@ -52,14 +64,8 @@
 - kennsluefni
 - Spurningar og pælingar
 	- er hægt að setja word skjöl inn á github Svar: já en..
-
+---
 
  ## það sem við náðum ekki að fara yfir
 
-  - [marp](https://marp.app/) 
-- [How to use GitHub to strengthen your resume](https://www.codecademy.com/resources/blog/how-to-use-github-to-strengthen-your-resume/)
-
-
-![Alt text](fa39a3278200436e3e6fe5d238aa753b.jpg)
-
-
+ - [marp](https://marp.app/)
