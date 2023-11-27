@@ -1,6 +1,6 @@
 # Git kynning fyrir kennara í raftækniskólanum
 
-![Alt text](<2023-11-27 08_53_49-git repository – Google leit.png>)
+![Alt text](/myndir/gitrepo.png)
 
 ## hvað er Git
 
