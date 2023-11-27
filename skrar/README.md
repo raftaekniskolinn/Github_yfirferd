@@ -1,0 +1,1 @@
+Svæði fyrir skrár
