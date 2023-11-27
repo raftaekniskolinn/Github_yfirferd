@@ -42,13 +42,13 @@
 	- Document on the go (sem við erum að gera núna)
 	- Document when done ( þetta viljum ekki gera)
 	- Not document 	
-- leyfi 
+- [leyfi](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) 
 
 
 ## áframhald
 
 - Er hægt að koma rafbók.is á github?
-- Fyrir kennara eða nemendur
+- Fyrir kennara eða nemendur?
 - kennsluefni
 - Spurningar og pælingar
 	- er hægt að setja word skjöl inn á github Svar: já en..
@@ -58,9 +58,20 @@
 
  ## það sem við náðum ekki að fara yfir
 
-  - [marp](https://marp.app/) 
+- [marp](https://marp.app/)
+	-  verkfæri til að breyta markdown í glærur
 - [How to use GitHub to strengthen your resume](https://www.codecademy.com/resources/blog/how-to-use-github-to-strengthen-your-resume/)
 
+## tengiliða upplýsingar
+
+Velkomið að hafa samband í tölvupósti eða á samfélagsmiðlum fyrir áframhaldandi vinnu og pælingar.
+
+Þórarinn Bjartur Breiðfjörð
+doddi@fabisa.is 
+
+[www.fabisa.is](www.fabisa.is)
+
+[Insta](https://www.instagram.com/hanndoddi/) [Facebook](https://www.facebook.com/hanndoddi/)
 
 ![Alt text](/myndir/fa39a3278200436e3e6fe5d238aa753b.jpg)
 
