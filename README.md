@@ -4,25 +4,31 @@
 
 ## hvað er Git
 
-- Git - guthub - gitlab
-- [markdown](https://commonmark.org/help/)
+- [Git](https://en.wikipedia.org/wiki/Git) - [Github](https://github.com/) - [Gitlab](https://about.gitlab.com/)
+- [Markdown](https://commonmark.org/help/)
 	- [Markdown Cheat-Sheet](https://dev.to/godcrampy/markdown-cheat-sheet-pdf-infographic-12ko)
 - uppsetning
-	- [vs code](https://code.visualstudio.com/) innbyggt github
+	- [VSCode](https://code.visualstudio.com/) innbyggt github
 	- [Git](https://git-scm.com/) og Gitbash fyrir lengra komna
 	- [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
+- Repos = möppukerfi
+	- Skipulag
+- Leyfi
+
+
 ![Alt text](/myndir/cheat_sheet.png)
 
-## dæmi
 
-- samstem og eddbook Hí
+## Dæmi
+
+- Samstem og Edbook Hí
 	- [https://samstem.github.io/](https://samstem.github.io/)
  	- [https://edbook.hi.is/](https://edbook.hi.is/)
 - [Spennugjafi](https://github.com/hanndoddi/spennugjafi_vgrt2)
-- [lampi fab lab ak](https://github.com/hanndoddi/Lampi) 
+- [Lampi Fab Lab Akureyri](https://github.com/hanndoddi/Lampi) 
 - modulair electronics frá Hans - fab lab Sauðárkrókur
-- [behive](https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes/-/tree/main/parts?ref_type=heads)
+- [Beehive](https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes/-/tree/main/parts?ref_type=heads)
 	-[PrintableAxis](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/Projects/PrintableAxis/) 
 - heimasíður
 	- [Fabacademy 2023 - Instructors Bootcamp](https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/)
@@ -30,6 +36,9 @@
 	- [Fla.is](https://www.fla.is/)
  - - Fab academy
 	- [Svavar Baksi](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
+
+
+## Áframhald
 
 ![Alt text](/myndir/1_eGdNATA_BGQcA1xUvc9Irg.png)
 
@@ -47,13 +56,18 @@
 
 ## áframhald
 
+
 - Er hægt að koma rafbók.is á github?
 - Fyrir kennara eða nemendur?
 - kennsluefni
 - Spurningar og pælingar
+
+	- Er hægt að setja word skjöl inn á github? Svar: já en..
+
 	- er hægt að setja word skjöl inn á github Svar: já en..
  	- Er hægt að nota þetta með outlook: veit það ekki
   	- 
+
 
 
  ## það sem við náðum ekki að fara yfir
